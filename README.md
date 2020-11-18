@@ -1,5 +1,8 @@
 # langage_C
 Introduction au C
 
-> further text soon...
+### Progammes:
+* [word_count](/word_count/README.md)
 
+
+> further text soon...
