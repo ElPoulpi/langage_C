@@ -2,7 +2,7 @@
 Introduction au C
 
 ### Progammes:
-* [word_count](/word_count/README.md)
+* [word_count](/word_count)
 
 
 > further text soon...
